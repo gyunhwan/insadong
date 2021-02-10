@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333049104688",
+    "project_id": "insadong2-65c95",
+    "storage_bucket": "insadong2-65c95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333049104688:android:f9061c8621a0bc9d44a0f5",
+        "android_client_info": {
+          "package_name": "com.dmonster.insadong2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333049104688-21a2t284ko7q35buh1no0tpsfssl5c3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWMnc1BN5zz2Dg6H6AzQvkNCEzRLv0tMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333049104688-21a2t284ko7q35buh1no0tpsfssl5c3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

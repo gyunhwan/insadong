@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/insadong2.iml" filepath="$PROJECT_DIR$/.idea/modules/insadong2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/insadong2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/insadong2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1550590982/insadong2.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1550590982/insadong2.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-23534994/insadong2.react-native-community_slider.iml" filepath="$PROJECT_DIR$/.idea/modules/-23534994/insadong2.react-native-community_slider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1122564160/insadong2.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1122564160/insadong2.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1273817373/insadong2.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-1273817373/insadong2.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1716118981/insadong2.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/1716118981/insadong2.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1448473059/insadong2.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1448473059/insadong2.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1717522897/insadong2.react-native-iap.iml" filepath="$PROJECT_DIR$/.idea/modules/-1717522897/insadong2.react-native-iap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-828521937/insadong2.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-828521937/insadong2.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1872268833/insadong2.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1872268833/insadong2.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/238162758/insadong2.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/238162758/insadong2.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/449426142/insadong2.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/449426142/insadong2.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1967981784/insadong2.react-native-sound-player.iml" filepath="$PROJECT_DIR$/.idea/modules/-1967981784/insadong2.react-native-sound-player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1358552151/insadong2.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1358552151/insadong2.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/866046828/insadong2.react-native-track-player.iml" filepath="$PROJECT_DIR$/.idea/modules/866046828/insadong2.react-native-track-player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-291631280/insadong2.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-291631280/insadong2.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>
